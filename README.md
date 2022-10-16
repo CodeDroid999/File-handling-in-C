@@ -8,4 +8,5 @@
 <li>Reading from a file</li>
 <li>Writing into a file</li>
 <li>count number of special symbols in a file</li>
+<li>count total number of digits in a file</li>
 </ol>
