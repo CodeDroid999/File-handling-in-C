@@ -6,6 +6,6 @@
 <li>Copy content of one file into another file</li>
 <li>Count total number of alphabets in a file</li>
 <li>Reading from a file</li>
-<li>Reading from a file</li>
+<li>Writing into a file</li>
 <li></li>
 </ol>
