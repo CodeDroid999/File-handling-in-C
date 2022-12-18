@@ -1,4 +1,11 @@
-# File-handling-in-C
+### File-handling-in-C
+### Get the Code
+
+```
+$ git clone https://github.com/CodeDroid999/File-handling-in-C.git
+
+```
+
 # Components
  This repository contains programs written in c to:
 
